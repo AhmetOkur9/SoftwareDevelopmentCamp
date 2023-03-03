@@ -1,3 +1,3 @@
 ﻿using GenericsIntro;
 
-MyList<string> names = new MyList<string>(); 
+MyList<string> names = new MyList<string>();
